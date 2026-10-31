@@ -1,16 +1,27 @@
-## Hi there 👋
+```
+## Olá! Eu sou o Geraldo 👋
 
-<!--
-**geraldosm11/geraldosm11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e entusiasta da tecnologia.
 
-Here are some ideas to get you started:
+💻 Atualmente, estou construindo minha base em programação e explorando o universo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+- 📚 Estudando lógica de programação e algoritmos.
+- 💡 Interessado em Engenharia de Software, Inteligência Artificial e infraestrutura.
+- 🎯 Buscando desenvolver minhas habilidades e construir uma carreira na tecnologia.
+- 🌱 Sempre disposto a aprender algo novo e evoluir.
+
+### 🛠️ Atualmente estudando
+
+- Lógica de Programação
+- Algoritmos
+- Fundamentos da Computação
+
+### 🎯 Objetivo
+
+Transformar minha curiosidade pela tecnologia em conhecimento, projetos e, futuramente, uma carreira na engenharia de software.
+
+---
+
+```
