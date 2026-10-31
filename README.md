@@ -1,72 +1,80 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:29251D,100:090909&height=180&section=header&text=GERALDO&fontSize=48&fontColor=C5A45D&fontAlignY=45&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:211F19,100:080808&height=160&section=header&text=GERALDO&fontSize=42&fontColor=C5A45D&fontAlignY=48&animation=fadeIn"/>
 
-### ⚔️ ESTUDANTE • TECNOLOGIA • ENGENHARIA
-
-*“Toda grande jornada começa com um primeiro passo.”*
+**Estudante de Tecnologia | Engenharia de Software**
 
 </div>
 
 ---
 
-## 🐺 Sobre mim
+### Sobre mim
 
-Olá! Sou Geraldo, estudante brasileiro e entusiasta de tecnologia.
+Sou estudante brasileiro, interessado em tecnologia e no funcionamento dos sistemas que fazem parte do nosso cotidiano.
 
-Atualmente, estou construindo minha base em lógica de programação e explorando o universo da engenharia de software.
+Atualmente, estou construindo minha base em lógica de programação e explorando diferentes áreas da computação para definir meu caminho profissional.
 
-Tenho interesse em inteligência artificial, desenvolvimento de software e infraestrutura.
+Tenho especial interesse em engenharia de software, inteligência artificial e infraestrutura.
 
-**Meu objetivo:** aprender, construir e evoluir constantemente.
+Valorizo o aprendizado consistente, a compreensão dos fundamentos e a capacidade de transformar conhecimento em soluções práticas.
 
 ---
 
-## ⚙️ Tecnologias
+### Áreas de interesse
+
+- Engenharia de Software
+- Inteligência Artificial
+- Desenvolvimento de Sistemas
+- Infraestrutura e DevOps
+
+---
+
+### Tecnologias e ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,python&theme=dark"/>
+
+</div>
+
+---
+
+### Estudos atuais
+
+| Área | Situação |
+|:---|:---|
+| Lógica de programação | Em andamento |
+| Fundamentos de computação | Em desenvolvimento |
+| Engenharia de Software | Área de interesse |
+| Inteligência Artificial | Explorando |
+| DevOps | Explorando |
+
+---
+
+### GitHub
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=geraldosm11&show_icons=true&theme=dark&hide_border=true&title_color=C5A45D&icon_color=C5A45D&text_color=C9D1D9"/>
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=geraldosm11&layout=compact&theme=dark&hide_border=true&title_color=C5A45D&text_color=C9D1D9"/>
 
 </div>
 
 ---
 
-## 📜 Missões atuais
+<div align="center">
 
-```text
-[EM ANDAMENTO]  Lógica de programação
-[EM ANDAMENTO]  Raciocínio lógico
-[PLANEJADO]     Engenharia de software
-[PLANEJADO]     Inteligência artificial
-[PLANEJADO]     DevOps e infraestrutura
+<img src="https://img.shields.io/badge/GitHub-geraldosm11-29251D?style=flat-square&logo=github&logoColor=C5A45D"/>
+
+<br/>
+
+<sub>Inspirado na estética de The Witcher 3: Wild Hunt.</sub>
+
+</div>
 ```
 
----
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=geraldosm11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C5A45D&icon_color=C5A45D&text_color=C9D1D9"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldosm11&layout=compact&hide_border=true&bg_color=0D1117&title_color=C5A45D&text_color=C9D1D9"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚔️ A JORNADA É LONGA. A EVOLUÇÃO CONTINUA.
-
-<img src="https://img.shields.io/badge/STATUS-EM_APRENDIZADO-C5A45D?style=flat-square&labelColor=0D1117"/>
-
-<br/><br/>
-
-<sub>Inspirado em The Witcher 3: Wild Hunt.</sub>
-
-</div>
-```
 
