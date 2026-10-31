@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:211F19,100:080808&height=160&section=header&text=GERALDO&fontSize=42&fontColor=C5A45D&fontAlignY=48&animation=fadeIn"/>
 
-**Estudante de Tecnologia | Engenharia de Software**
+**Estudante de Tecnologia**
 
 </div>
 
